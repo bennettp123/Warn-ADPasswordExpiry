@@ -13,7 +13,7 @@ A powershell script for warning of imminent password expiry
 
 ## Optional:
 
-Use pshellwrapper.vbs when creating the sscheduled task to hide the powershell window.
+Use pshellwrapper.vbs when creating the scheduled task to hide the powershell window.
 
 	\path\to\pshellwrapper.vbs \path\to\Warn-ADPasswordExpiry.ps1 <user> <domain>
 
