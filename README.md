@@ -17,6 +17,6 @@ Use pshellwrapper.vbs when creating the scheduled task to hide the powershell wi
 
 	\path\to\pshellwrapper.vbs \path\to\Warn-ADPasswordExpiry.ps1 <user> <domain>
 
-License: Freeware.<br />Warranty: None.
+License: MIT.<br />Warranty: None.
 
 Enjoy!
